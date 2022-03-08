@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Loudspeaker",
+        "price":"$799.00",
+        "img":"./img/Loudspeaker.png"
+    },
+    {
+        "name":"Headphones",
+        "price":"$174.00",
+        "img":"./img/Headphones.png"
+    },
+    {
+        "name":"Poketo",
+        "price":"$25.00",
+        "img":"./img/Poketo.png"
+    },
+    {
+        "name":"Backpack",
+        "price":"$79.00",
+        "img":"./img/Backpack.png"
+    },
+    {
+        "name":"Summer Print",
+        "price":"$27.00",
+        "img":"./img/SummerPrint.png"
+    },
+    {
+        "name":"Corner Sofa",
+        "price":"$3,699.00",
+        "img":"./img/CornerSofa.png"
+    }
+]
